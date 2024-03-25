@@ -53,7 +53,7 @@ list of Measures obtained in the prcocess of analysis:
 ## Data Visualization
 Visualization being the dashboard was created in Microsoft Power Bi Desktop;
 
-![Dashboard](https://imgur.com/eL3ynu5)
+[Dashboard](https://imgur.com/eL3ynu5)
 
 ## Insights
 From the dashboard we can infer that;
