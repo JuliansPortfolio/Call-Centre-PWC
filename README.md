@@ -36,7 +36,7 @@ list of Measures obtained in the prcocess of analysis:
 
 ## Data Visualization
 Visualization being the dashboard was created in Microsoft Power Bi Desktop
-![Dashboard](https://github.com/JuliansPortfolio/Call-Centre-PWC/assets/118804668/b5fe8ac2-3c26-4e6c-9e94-39033700a8ed)
+![Dashboard](https://imgur.com/eL3ynu5)
 
 ## Insights
 From the dashboard we can infer that
