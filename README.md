@@ -51,9 +51,9 @@ list of Measures obtained in the prcocess of analysis:
 - Unresoved Calls = ```COUNTX(FILTER('Sheet1','Sheet1'[Resolved] = "No"),'Sheet1'[Resolved])```
 
 ## Data Visualization
-Visualization being the dashboard was created in Microsoft Power Bi Desktop;
-[Dashboard](https://github.com/JuliansPortfolio/Call-Centre-PWC/assets/118804668/4b374bd2-fbd3-4a0f-b7be-d9a3b8583cf4)
+The dashboard below was created in Microsoft Power Bi Desktop;
 
+![](https://github.com/JuliansPortfolio/Call-Centre-PWC/blob/main/CallCentre.png)
 ## Insights
 From the dashboard we can infer that;
 - Jim answered and at the same time recieved highest calls.
