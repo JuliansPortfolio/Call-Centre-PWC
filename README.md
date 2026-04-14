@@ -1,3 +1,4 @@
+![](https://github.com/JuliansPortfolio/Call-Centre-PWC/blob/main/CallCenter.jpg)
 # Call Centre Trend (Forage Virtual Internship)
 
 ## Table of Contents
